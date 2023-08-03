@@ -19,7 +19,7 @@ npm run dev
 
 ## Navigation and testing
 * Navigate to requests tab in your ProcessMaker 4
-* Select `Package Batch Reassignment` from the left sidebar
+* Select `Batch Reassignment` from the left sidebar
 
 ## Uninstall
 * Use `php artisan package-batch-reassignment:uninstall` to uninstall the package
