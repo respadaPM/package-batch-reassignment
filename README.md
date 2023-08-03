@@ -18,8 +18,8 @@ npm run dev
 * Use `php artisan package-batch-reassignment:install` to install generate the dependencies.
 
 ## Navigation and testing
-* Navigate to administration tab in your ProcessMaker 4
-* Select `Skeleton Package` from the administrative sidebar
+* Navigate to requests tab in your ProcessMaker 4
+* Select `Package Batch Reassignment` from the left sidebar
 
 ## Uninstall
 * Use `php artisan package-batch-reassignment:uninstall` to uninstall the package
